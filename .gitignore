@@ -1,0 +1,4 @@
+.env
+google-creds.json
+node_modules
+private.key

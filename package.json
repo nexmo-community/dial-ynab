@@ -1,0 +1,22 @@
+{
+  "name": "dial-ynab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express-ws": "^4.0.0",
+    "express": "^4.16.3",
+    "fast-levenshtein": "^2.0.6",
+    "nexmo": "^2.3.2",
+    "request-promise": "^4.2.2",
+    "ynab": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
